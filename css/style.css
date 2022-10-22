@@ -1,11 +1,11 @@
 @font-face {
     font-family: Open_Sans;
-    src: url(/WeBuild/fonts/OpenSans-VariableFont_wdth\,wght.ttf);
+    src: url(/fonts/OpenSans-VariableFont_wdth\,wght.ttf);
 }
 
 @font-face {
     font-family: Roboto;
-    src: url(/WeBuild/fonts/Roboto-Regular.ttf);
+    src: url(/fonts/Roboto-Regular.ttf);
 }
 
 
@@ -260,13 +260,13 @@ h3 span {
 }
 
 .ban_1 {
-    background: linear-gradient(rgba(4, 15, 40, .7), rgba(4, 15, 40, .7)), url(/WeBuild/images/carousel-1.jpg);
+    background: linear-gradient(rgba(4, 15, 40, .7), rgba(4, 15, 40, .7)), url(/images/carousel-1.jpg);
     padding: 150px 0;
     display: none;
 }
 
 .ban_2 {
-    background: linear-gradient(rgba(4, 15, 40, .7), rgba(4, 15, 40, .7)), url(/WeBuild/images/carousel-2.jpg);
+    background: linear-gradient(rgba(4, 15, 40, .7), rgba(4, 15, 40, .7)), url(/images/carousel-2.jpg);
     padding: 150px 0;
     display: none;
 }
@@ -514,15 +514,15 @@ h3 span {
 }
 
 .projects .sel_1 {
-    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(/WeBuild/images/portfolio-1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(/images/portfolio-1.jpg);
 }
 
 .projects .sel_2 {
-    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(/WeBuild/images/portfolio-2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(/images/portfolio-2.jpg);
 }
 
 .projects .sel_3 {
-    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(/WeBuild/images/portfolio-3.jpg);
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(/images/portfolio-3.jpg);
 }
 
 .projects .head .flex {
